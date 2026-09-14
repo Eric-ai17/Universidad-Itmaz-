@@ -6,7 +6,7 @@ Página web educativa desarrollada con apoyo de Inteligencia Artificial para def
 
 ## Enlace al Sitio Publicado
 
-🔗 **Sitio en vivo:** [Haz clic aquí para ver la página](https://tu-usuario.github.io/tu-repositorio)
+🔗 **Sitio en vivo:** [Haz clic aquí para ver la página](https://eric-ai17.github.io/sustentable-vs-sostenible/)
 
 ---
 
@@ -124,12 +124,6 @@ Lo *sustentable* se centra de manera directa en la conservación de los recursos
 ```
 
 ---
-
-## Evidencias Visuales
-
-![Concepto de Sustentabilidad](https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=800&q=80)
-
-![Concepto de Sostenibilidad](https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?auto=format&fit=crop&w=800&q=80)
 
 ---
 
