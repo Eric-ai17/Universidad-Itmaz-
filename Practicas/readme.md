@@ -70,7 +70,7 @@ void loop() {
 )
 
 ## Reporte
-Incluye [Resultados.pdf](Resultados/Resultados.pdf)
+Incluye [Resultados.pdf](Resultados/file:///C:/Users/Eric%20Iv%C3%A1n%20FG17/Downloads/Resultados_10_LEDs.pdf)
 * Gráficas (insertar imagen o link)
 * Tablas de datos
 * Observaciones sobre el comportamiento del sistema.
