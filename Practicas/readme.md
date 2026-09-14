@@ -63,21 +63,20 @@ void loop() {
 ```
 
 ## Video del funcionamiento
-[Ver video en YouTube](https://www.youtube.com/watch?v=TU_LINK_AQUI)
+[Ver video en YouTube](https://youtube.com/shorts/gh4UONjyHJ0?feature=share)
 
 ## Evidencias de armado
-![Evidencia de armado](Diagrama/<img width="1600" height="1200" alt="Evidencia de armado arduino" src="https://github.com/user-attachments/assets/835b7d67-9270-428f-96dd-24421c6734a3" />
-)
+<img src="https://github.com/user-attachments/assets/835b7d67-9270-428f-96dd-24421c6734a3" alt="Evidencia de armado arduino" width="100%">
 
 ## Reporte
-Incluye [<img width="1200" height="750" alt="Code_Generated_Image (1)" src="https://github.com/user-attachments/assets/82a634f4-e832-460e-98a7-aefbb0c91239" />
-])
-* Gráficas (insertar imagen o link)
-* Tablas de datos
-* Observaciones sobre el comportamiento del sistema.
+<img src="https://github.com/user-attachments/assets/82a634f4-e832-460e-98a7-aefbb0c91239" alt="Reporte de resultados" width="100%">
+
+* **Gráficas / Diagrama:** Conexión secuencial en pines digitales del Arduino Uno.
+* **Tablas de datos:** Resistencias de 220 Ω, consumo por LED ~13.8 mA.
+* **Observaciones:** Secuencia de 10 LEDs funcionando correctamente con temporización de 500 ms.
 
 ## Conclusiones
-La práctica permitió reforzar el uso de las funciones básicas de salida digital y temporización en Arduino (digitalWrite y delay)...
+La práctica permitió reforzar el uso de las funciones básicas de salida digital y temporización en Arduino (`digitalWrite` y `delay`).
 
 ## Resultados
-[Resultados.pdf](Resultados/Resultados.pdf)
+<img src="https://github.com/user-attachments/assets/82a634f4-e832-460e-98a7-aefbb0c91239" alt="Resultados de la práctica" width="100%">
