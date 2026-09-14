@@ -66,7 +66,7 @@ void loop() {
 [Ver video en YouTube](https://youtube.com/shorts/gh4UONjyHJ0?feature=share)
 
 ## Evidencias de armado
-<img src="https://github.com/user-attachments/assets/835b7d67-9270-428f-96dd-24421c6734a3" alt="Evidencia de armado arduino" width="100%">
+<img src="https://github.com/user-attachments/assets/835b7d67-9270-428f-96dd-24421c6734a3" alt="Evidencia de armado arduino" width="70%">
 
 ## Reporte
 <img src="https://github.com/user-attachments/assets/82a634f4-e832-460e-98a7-aefbb0c91239" alt="Reporte de resultados" width="100%">
