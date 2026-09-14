@@ -16,7 +16,7 @@ Enumera todos los componentes usados:
 * Resistencia 220 ohms
 
 ## Diagrama del circuito
-![Diagrama del circuito](Diagrama/mi_diagrama.png)
+![Diagrama del circuito]<img width="956" height="481" alt="Screenshot 2026-09-14 11 34 51" src="https://github.com/user-attachments/assets/efeaacdc-f65a-415d-b55e-1bc0cce99d1d" />
 
 ## Código
 
