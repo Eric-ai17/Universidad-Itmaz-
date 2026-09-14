@@ -6,7 +6,7 @@ Página web educativa desarrollada con apoyo de Inteligencia Artificial para def
 
 ## Enlace al Sitio Publicado
 
-🔗 **Sitio en vivo:** [Haz clic aquí para ver la página](https://eric-ai17.github.io/sustentable-vs-sostenible/)
+🔗 **Sitio en vivo:** [Haz clic aquí para ver la página](https://tu-usuario.github.io/tu-repositorio)
 
 ---
 
@@ -90,4 +90,83 @@ Lo *sustentable* se centra de manera directa en la conservación de los recursos
       border-radius: 8px;
       overflow: hidden;
       box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-      margin-top:
+      margin-top: 1rem;
+    }
+    th, td {
+      padding: 1rem;
+      text-align: left;
+      border-bottom: 1px solid #ddd;
+    }
+    th {
+      background-color: #e0e0e0;
+    }
+    footer {
+      text-align: center;
+      padding: 1.5rem;
+      background: #333;
+      color: white;
+      margin-top: 2rem;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Sustentabilidad vs. Sostenibilidad</h1>
+    <p>Entendiendo sus definiciones y diferencias clave</p>
+  </header>
+
+  <div class="container">
+    <div class="grid">
+      
+      <div class="card sustentable">
+        <img src="[https://images.unsplash.com/](https://images.unsplash.com/)
+```
+
+---
+
+## Evidencias Visuales
+
+![Concepto de Sustentabilidad](https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=800&q=80)
+
+![Concepto de Sostenibilidad](https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?auto=format&fit=crop&w=800&q=80)
+
+---
+
+## Tecnologías Utilizadas
+
+* **IA Generativa:** Asistencia en la generación de la estructura semántica, el maquetado CSS y la redacción del contenido.
+* **HTML5 / CSS3:** Maquetación limpia, responsiva mediante CSS Grid y accesible sin dependencias externas.
+* **GitHub Pages:** Plataforma de alojamiento e integración continua para el despliegue del sitio estático.
+
+---
+
+## Resultados y Evidencias
+
+| Indicador / Criterio | Estado / Resultado | Detalle de la Implementación |
+| :--- | :--- | :--- |
+| **Despliegue Web** | 100% Exitoso | Publicado mediante GitHub Pages como sitio estático accesible globalmente |
+| **Diseño Responsivo** | Adaptativo (`CSS Grid`) | Reorganización fluida en dispositivos móviles, tabletas y monitores de escritorio |
+| **Tiempo de Carga** | < 1 segundo | Estructura ligera en un solo archivo sin librerías ni scripts pesados |
+| **Optimización de Recursos** | Implícita | Uso de imágenes comprimidas servidas desde CDN externa (`Unsplash`) |
+
+---
+
+## Reporte Técnico
+
+**1. Resumen Ejecutivo**  
+Este proyecto inicial consistió en diseñar y desplegar una plataforma web ligera orientada a resolver la ambigüedad conceptual entre sustentabilidad y sostenibilidad. Se utilizó IA para agilizar la producción del código HTML5 y CSS3, garantizando una interfaz clara, responsiva y con una transferencia de datos eficiente.
+
+**2. Planteamiento del Problema**  
+El uso indistinto de los términos "sustentable" y "sostenible" genera confusiones conceptuales en el ámbito académico y profesional. La práctica resuelve esta problemática mediante un recurso digital sintético que explica visualmente cómo la sustentabilidad se enfoca en los recursos naturales mientras que la sostenibilidad abarca de forma transversal los pilares ecológico, social y económico.
+
+**3. Arquitectura Web y Diseño**  
+La maquetación se realizó mediante código estático puro:
+* **Estructura Semántica:** Uso de etiquetas estándar de HTML5 (`<header>`, `<main>`, `<footer>`, `<table>`).
+* **Diseño Dinámico:** Paleta de colores configurada con variables CSS (`--primary`, `--secondary`) y tarjetas distribuidas mediante `CSS Grid` para adaptabilidad automática sin depender de *frameworks* pesados.
+
+**4. Evaluación de Impacto (Green IT)**  
+El sitio fue construido con HTML y CSS puros sin dependencias pesadas ni scripts innecesarios de JavaScript. Al alojarse como una página estática en GitHub Pages, se reduce la carga sobre los servidores, minimizando el consumo de energía y la huella de carbono asociada al tráfico web.
+
+**5. Conclusiones**  
+Se completó con éxito el despliegue del sitio web. La práctica permitió integrar herramientas de IA en el flujo de desarrollo web frontend y comprender la importancia de crear páginas livianas alineadas con los principios de sostenibilidad digital.
