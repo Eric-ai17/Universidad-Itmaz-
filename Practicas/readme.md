@@ -70,7 +70,8 @@ void loop() {
 )
 
 ## Reporte
-Incluye [<iframe src="Resultados.pdf" width="100%" height="500px"></iframe>](Resultados/file:///C:/Users/Eric%20Iv%C3%A1n%20FG17/Downloads/Resultados_10_LEDs.pdf)
+Incluye [<img width="1200" height="750" alt="Code_Generated_Image (1)" src="https://github.com/user-attachments/assets/82a634f4-e832-460e-98a7-aefbb0c91239" />
+])
 * Gráficas (insertar imagen o link)
 * Tablas de datos
 * Observaciones sobre el comportamiento del sistema.
