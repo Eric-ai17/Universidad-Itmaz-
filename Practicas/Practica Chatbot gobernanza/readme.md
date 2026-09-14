@@ -16,7 +16,7 @@ Este proyecto implementa un asistente virtual inteligente en Telegram integrado 
 
 ## Diagrama del circuito
 
-![Diagrama de Automatización en Make](Gobernanzabot%20evidencia.jpeg)
+![Diagrama de Automatización en Make](Gobernanzabot evidencia.jpeg)
 
 ---
 
