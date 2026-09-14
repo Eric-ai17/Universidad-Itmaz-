@@ -19,7 +19,7 @@ Enumera todos los componentes usados:
 * Gmail API
 
 ## Diagrama del circuito
-![Flujo de automatización en Make](Resultados/Diagrama%20make%20google%20sheets%20encuesta%20nube.png)
+![Flujo de automatización en Make](Makegreenitautomatizacionnube.jpeg)
 
 ## Código
 
