@@ -39,7 +39,7 @@ El comportamiento del modelo Claude dentro del módulo **Make AI Agent** se deli
 
 ![Escenario de Make en funcionamiento](Gobernanzabot%20evidencia.jpeg)
 
-![Documentos de Gobernanza Ambiental](Gobernanzabot evidenciaa.jpeg)
+![Documentos de Gobernanza Ambiental](Gobernanzabotevidenciaa.jpg)
 
 ---
 
