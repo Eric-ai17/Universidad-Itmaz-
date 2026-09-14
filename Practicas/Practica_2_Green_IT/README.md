@@ -19,7 +19,7 @@ Enumera todos los componentes usados:
 * Gmail API
 
 ## Diagrama del circuito
-![Flujo de automatización en Make](Makegreenitautomatizacionnube.jpeg)
+![Flujo de automatización en Make](makegreenitautomatizacionnube.jpeg)
 
 ## Código
 
