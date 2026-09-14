@@ -432,8 +432,13 @@ Enumera todos los componentes usados:
     }
   });
 </script>
+```
 
-## Reporte Técnico
+ ## Reporte Técnico
+  
+ **1. Resumen Ejecutivo**  
+ El presente reporte documenta el desarrollo e implementación...
+ ## Reporte Técnico
 
 ### 1. Resumen Ejecutivo
 El presente reporte documenta el desarrollo e implementación de una plataforma web interactiva y un flujo de automatización *serverless* orientado a concientizar sobre el impacto ambiental del almacenamiento en la nube. La solución integra tecnologías web cliente con arquitecturas de automatización basadas en eventos (Webhooks, Make, Google Sheets y Gmail API), reduciendo la huella de carbono al eliminar la necesidad de un servidor backend dedicado de escucha continua.
@@ -463,5 +468,4 @@ La implementación de una arquitectura basada en eventos (*Event-Driven Architec
 
 ### 6. Conclusiones
 Se logró desplegar con éxito una solución eficiente que combina la concientización ambiental con el uso responsable de tecnologías digitales. El proyecto demuestra que la adopción de arquitecturas modernas no solo agiliza el desarrollo, sino que respalda los principios de sostenibilidad y optimización de recursos promovidos por Green IT.
-</body>
-</html>
+
