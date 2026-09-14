@@ -6,7 +6,7 @@ Página web educativa desarrollada con apoyo de Inteligencia Artificial para def
 
 ## Enlace al Sitio Publicado
 
-🔗 **Sitio en vivo:** [Haz clic aquí para ver la página](https://tu-usuario.github.io/tu-repositorio)
+🔗 **Sitio en vivo:** [Haz clic aquí para ver la página](https://eric-ai17.github.io/sustentable-vs-sostenible/)
 
 ---
 
