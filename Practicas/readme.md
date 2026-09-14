@@ -66,7 +66,8 @@ void loop() {
 [Ver video en YouTube](https://www.youtube.com/watch?v=TU_LINK_AQUI)
 
 ## Evidencias de armado
-![Evidencia de armado](Diagrama/mi_foto_armado.png)
+![Evidencia de armado](Diagrama/<img width="1600" height="1200" alt="Evidencia de armado arduino" src="https://github.com/user-attachments/assets/835b7d67-9270-428f-96dd-24421c6734a3" />
+)
 
 ## Reporte
 Incluye [Resultados.pdf](Resultados/Resultados.pdf)
