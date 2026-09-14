@@ -22,12 +22,6 @@ Lo *sustentable* se centra de manera directa en la conservación de los recursos
 
 ---
 
-## Evidencias Visuales
-
-![Concepto de Sustentabilidad](https://eric-ai17.github.io/sustentable-vs-sostenible/)
-
-![Concepto de Sostenibilidad](https://eric-ai17.github.io/sustentable-vs-sostenible/)
-
 ---
 
 ## Tecnologías Utilizadas
