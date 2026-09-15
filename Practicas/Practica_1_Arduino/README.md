@@ -80,7 +80,7 @@ void loop() {
 La práctica permitió reforzar el uso de las funciones básicas de salida digital y temporización en Arduino (`digitalWrite` y `delay`).
 
 ## Resultados
-<img src="https://github.com/user-attachments/assets/82a634f4-e832-460e-98a7-aefbb0c91239" alt="Resultados de la práctica" width="100%">
+<img src="https://github.com/user-attachments/assets/82a634f4-e832-460e-98a7-aefbb0c91239" alt="Resultados de la práctica" width="50%">
 ## Resultado Técnico General
 
 ### 1. Resumen de Ejecución y Funcionamiento
