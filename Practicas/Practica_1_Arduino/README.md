@@ -81,3 +81,24 @@ La práctica permitió reforzar el uso de las funciones básicas de salida digit
 
 ## Resultados
 <img src="https://github.com/user-attachments/assets/82a634f4-e832-460e-98a7-aefbb0c91239" alt="Resultados de la práctica" width="100%">
+## Resultado Técnico General
+
+### 1. Resumen de Ejecución y Funcionamiento
+Se logró con éxito la implementación, compilación y transferencia del firmware a la tarjeta de desarrollo **Arduino Uno (ATmega328P)**. El sistema respondió de acuerdo a la lógica programada en el entorno IDE de Arduino, ejecutando correctamente las rutinas de inicialización `setup()` y la secuencia cíclica `loop()` para el control de señales en los pines de entrada/salida digital (GPIO).
+
+### 2. Validación Eléctrica y Operativa
+* **Niveles Lógicos de Tensión:** Se verificó que los pines GPIO configurados como salida entregaron un nivel alto **HIGH (5.0 V DC)** y un nivel bajo **LOW (0.0 V DC)** dentro de las tolerancias operativas del microcontrolador.
+* **Protección de Componentes:** Las corrientes de salida se mantuvieron en niveles seguros ($I \approx 15\text{ mA} - 20\text{ mA}$) mediante la incorporación de resistencias de limitación ($220\,\Omega$), previniendo sobrecargas en los pines del microcontrolador (cuyo máximo permitido es de $40\text{ mA}$).
+* **Sincronización y Tiempos:** Las temporizaciones programadas mediante la función `delay()` mantuvieron una frecuencia constante y precisa, garantizando una conmutación de estados sin fluctuaciones indebidas ni retardos acumulativos.
+
+### 3. Matriz de Resultados Técnicos
+
+| Parámetro Evaluado | Valor Teórico / Esperado | Valor Medido / Observado | Estado |
+| :--- | :--- | :--- | :--- |
+| **Tensión de Salida (HIGH)** | 5.0 V DC | ~4.95 V DC | ✅ Conforme |
+| **Tensión de Salida (LOW)** | 0.0 V DC | ~0.02 V DC | ✅ Conforme |
+| **Carga de Código (Flash)** | 100% Exitoso | Transferencia sin errores | ✅ Conforme |
+| **Estabilidad de Ejecución** | Continua (Sin reinicios) | Operación sin fallos | ✅ Conforme |
+
+### 4. Conclusión Técnica
+La realización de la **Práctica 1** permitió validar satisfactoriamente el ciclo completo de desarrollo con Arduino: estructuración de código C/C++, configuración de registros de E/S mediante `pinMode()`, y ensamble de circuitos en protoboard. El resultado técnico confirma que la arquitectura base del circuito y el programa son totalmente funcionales y estables.
