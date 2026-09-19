@@ -18,9 +18,10 @@ En esta práctica de la materia Desarrollo Sustentable con Automatización, se d
 * **Dispositivo de Captura:** Teléfono inteligente con cámara
 * **Entorno de Campo:** Jardín del Instituto Tecnológico de Mazatlán
 
-## Diagrama del circuito / Arquitectura del Flujo
+## Diagrama de make / Imagenes de mensajes chatbot ecosistema
 [Diagrama del flujo en Make.com]<<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/fd89b8d8-1a3b-46a1-8f07-919e56ad69d5" />
->
+><img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/3e72f1b4-0519-4bbf-b0bc-0a35a65b2b5e" />
+
 
 ## Video del funcionamiento
 [[Ver video en YouTube](https://youtu.be/Ddfz1HOkf38)](https://youtube.com/shorts/8USO-tsQnlE)
