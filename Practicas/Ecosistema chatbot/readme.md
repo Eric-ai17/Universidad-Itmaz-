@@ -53,4 +53,4 @@ Reglas estrictas:
 
 ## Resultados
 
-📄 **Reporte en PDF:** [Haz clic aquí para ver el archivo PDF](
+📄 **Reporte en PDF:** [Haz clic aquí para ver el archivo PDF](https://github.com/Eric-ai17/Universidad-Itmaz-/blob/main/Practicas/Ecosistema%20chatbot/Resultados/Reporte_Practica_Ecosistema.pdf)
