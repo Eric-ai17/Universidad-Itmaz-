@@ -31,7 +31,7 @@ En esta práctica de la materia Desarrollo Sustentable con Automatización, se d
 ### 1. Archivo `blueprint.json`
 👉 ### 1. Archivo `blueprint.json`
 El código JSON exportado de la automatización se encuentra guardado en la raíz del repositorio:
-👉 [`Integration Telegram Bot.blueprint.json`]("C:\Users\Eric Iván FG17\Downloads\Integration Telegram Bot.blueprint.json")
+👉 [`Integration Telegram Bot.blueprint.json`]("Integration Telegram Bot.blueprint.json")
 
 ### 2. System Prompt configurado en el Agente de IA
 ```text
