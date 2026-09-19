@@ -49,3 +49,6 @@ Reglas estrictas:
 - Máximo 35 palabras en total.
 - Sin introducciones, sin despedidas, sin explicaciones extra.
 - Responde siempre en español.
+## Resultados
+
+
