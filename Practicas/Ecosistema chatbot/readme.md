@@ -53,4 +53,4 @@ Reglas estrictas:
 
 ## Resultados
 
-📄 **Reporte en PDF:** [Haz clic aquí para ver el archivo PDF](Reporte_Practica_Ecosistema.pdf)
+📄 **Reporte en PDF:** [Haz clic aquí para ver el archivo PDF](
