@@ -49,6 +49,9 @@ Reglas estrictas:
 - Sin introducciones, sin despedidas, sin explicaciones extra.
 - Responde siempre en español.
 
+´´´
+## Resultados
 
+📄 **Reporte en PDF:** [Haz clic aquí para ver el archivo PDF](https://tu-link-aqui-del-pdf.pdf)
 
 
