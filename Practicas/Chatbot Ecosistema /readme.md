@@ -22,7 +22,7 @@ En esta práctica de la materia Desarrollo Sustentable con Automatización, se d
 [Diagrama del flujo en Make.com]<img width="700" alt="Diagrama del flujo Ecosistema en Make" src="https://github.com/user-attachments/assets/tu-imagen-diagrama-aqui" />
 
 ## Video del funcionamiento
-[Ver video en YouTube](https://studio.youtube.com/video/8USO-tsQnlE/edit)(https://studio.youtube.com/video/Ddfz1HOkf38/edit)
+[[Ver video en YouTube](https://youtu.be/Ddfz1HOkf38)](https://youtube.com/shorts/8USO-tsQnlE)
 ---
 
 ## Código
