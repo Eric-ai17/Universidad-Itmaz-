@@ -19,7 +19,8 @@ En esta práctica de la materia Desarrollo Sustentable con Automatización, se d
 * **Entorno de Campo:** Jardín del Instituto Tecnológico de Mazatlán
 
 ## Diagrama del circuito / Arquitectura del Flujo
-[Diagrama del flujo en Make.com]<img width="700" alt="Diagrama del flujo Ecosistema en Make" src="https://github.com/user-attachments/assets/tu-imagen-diagrama-aqui" />
+[Diagrama del flujo en Make.com]<<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/fd89b8d8-1a3b-46a1-8f07-919e56ad69d5" />
+>
 
 ## Video del funcionamiento
 [[Ver video en YouTube](https://youtu.be/Ddfz1HOkf38)](https://youtube.com/shorts/8USO-tsQnlE)
@@ -29,7 +30,7 @@ En esta práctica de la materia Desarrollo Sustentable con Automatización, se d
 
 ### 1. Archivo `blueprint.json`
 El código JSON exportado de la automatización se encuentra guardado en la raíz del repositorio:
-👉 [`Integration Telegram Bot.blueprint_2.json`](./Integration%20Telegram%20Bot.blueprint_2.json)
+👉 [`Integration Telegram Bot.blueprint_2.json`](C:\Users\Eric Iván FG17\Downloads\Integration Telegram Bot.blueprint.json)
 
 ### 2. System Prompt configurado en el Agente de IA
 ```text
