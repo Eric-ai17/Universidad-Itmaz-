@@ -25,6 +25,6 @@ En esta práctica de la materia Desarrollo Sustentable con Automatización, se d
 ## Video del funcionamiento
 [Ver video en YouTube](https://youtube.com/shorts/20iSwdYH3Vw) [Ver video en YouTube](https://youtu.be/ZV5TLr5dLls)
 
-* **Estado Normal (<= 26 °C):** Al mantener el sensor en condiciones de temperatura ambiente normales (24 °C - 25 °C), el diodo LED permaneció apagado y el Monitor Serie registró lecturas estables.
-* **Activación por Umbral (> 26 °C):** Al aplicar calor controlado cerca del sensor para elevar la temperatura sobre los 26 °C, el microcontrolador detectó el cambio instantáneamente y encendió el LED indicador.
-* **Restablecimiento Automático:** Una vez removida la fuente de calor y al descender la temperatura por debajo de los 26 °C, el diodo LED se apagó de inmediato, confirmando la respuesta correcta del algoritmo condicional.
+## Resultados
+
+📄 **Reporte en PDF:** [Haz clic aquí para ver el archivo PDF]()
