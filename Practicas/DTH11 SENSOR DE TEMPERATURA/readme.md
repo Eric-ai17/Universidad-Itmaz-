@@ -24,9 +24,7 @@ En esta práctica de la materia Desarrollo Sustentable con Automatización, se d
 
 
 ## Video del funcionamiento
-
 [](https://youtube.com/shorts/20iSwdYH3Vw)[](https://youtu.be/ZV5TLr5dLls)
-
 ## Resultados
 Durante el desarrollo y pruebas del prototipo se obtuvieron los siguientes resultados:
 * **Estado Normal (<= 26 °C):** Al mantener el sensor en condiciones de temperatura ambiente normales (24 °C - 25 °C), el diodo LED permaneció apagado y el Monitor Serie registró lecturas estables.
