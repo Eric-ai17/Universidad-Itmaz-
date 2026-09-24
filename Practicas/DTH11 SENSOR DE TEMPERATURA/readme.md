@@ -22,11 +22,9 @@ En esta práctica de la materia Desarrollo Sustentable con Automatización, se d
 ## Diagrama del circuito / Imágenes del funcionamiento
 [Diagrama del circuito y Monitor Serie]<<img width="500" height="300" alt="Screenshot 2026-09-24 11 46 31" src="https://github.com/user-attachments/assets/d21e112f-8735-4826-b27c-b008cb2b78d9" /> <img width="500" height="300" alt="Screenshot 2026-09-24 11 46 06" src="https://github.com/user-attachments/assets/d013f8ea-12fa-494f-82ab-9fe6b78cb48a" /> 
 
-
 ## Video del funcionamiento
-[](https://youtube.com/shorts/20iSwdYH3Vw)[](https://youtu.be/ZV5TLr5dLls)
-## Resultados
-Durante el desarrollo y pruebas del prototipo se obtuvieron los siguientes resultados:
+[](https://youtu.be/ZV5TLr5dLls)([)](https://youtube.com/shorts/20iSwdYH3Vw)
+
 * **Estado Normal (<= 26 °C):** Al mantener el sensor en condiciones de temperatura ambiente normales (24 °C - 25 °C), el diodo LED permaneció apagado y el Monitor Serie registró lecturas estables.
 * **Activación por Umbral (> 26 °C):** Al aplicar calor controlado cerca del sensor para elevar la temperatura sobre los 26 °C, el microcontrolador detectó el cambio instantáneamente y encendió el LED indicador.
 * **Restablecimiento Automático:** Una vez removida la fuente de calor y al descender la temperatura por debajo de los 26 °C, el diodo LED se apagó de inmediato, confirmando la respuesta correcta del algoritmo condicional.
