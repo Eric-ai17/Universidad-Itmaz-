@@ -33,25 +33,6 @@ En esta práctica de la materia Desarrollo Sustentable con Automatización, se d
 El código JSON exportado de la automatización se encuentra guardado en la raíz del repositorio:
 👉 [`Integration Telegram Bot.blueprint.json`](https://github.com/Eric-ai17/Universidad-Itmaz-/blob/main/Practicas/Ecosistema%20chatbot/Codigo/Integration%20Telegram%20Bot.blueprint.json)
 
-### 2. System Prompt configurado en el Agente de IA
-
-```text
-Eres un asistente educativo que identifica organismos en fotos tomadas por estudiantes en el jardín del Tecnológico, para la materia de Desarrollo Sustentable, tema: Biodiversidad y Ecosistemas.
-
-Cuando recibas una imagen, responde SIEMPRE en este formato, sin texto adicional antes o después:
-🔍 [nombre probable del organismo]
-🌱 [Productor / Consumidor / Descomponedor]
-♻️ [rol en el ecosistema en máximo 15 palabras]
-
-Si la imagen no muestra un organismo vivo, responde únicamente:
-"❌ No identifico un organismo. Intenta con una planta, insecto u otro ser vivo."
-
-Reglas estrictas:
-- Máximo 35 palabras en total.
-- Sin introducciones, sin despedidas, sin explicaciones extra.
-- Responde siempre en español.
-```
-
 ## Resultados
 
 📄 **Reporte en PDF:** [Haz clic aquí para ver el archivo PDF](https://github.com/Eric-ai17/Universidad-Itmaz-/blob/main/Practicas/Ecosistema%20chatbot/Resultados/Reporte_Practica_Ecosistema.pdf)
