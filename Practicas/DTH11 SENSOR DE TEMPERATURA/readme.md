@@ -3,8 +3,6 @@ Monitoreo de Temperatura Ambiental y Control de Indicador LED con Arduino y Sens
 
 ## Descripción
 En esta práctica de la materia Desarrollo Sustentable con Automatización, se diseñó e implementó un sistema de monitoreo en tiempo real utilizando una tarjeta Arduino y un sensor de temperatura (DHT11). El sistema mide continuamente la temperatura ambiental del entorno y evalúa la lectura respecto a un umbral preestablecido de 26 °C. Cuando la temperatura supera los 26 °C, el sistema activa automáticamente un diodo LED como señal de alerta visual; en cuanto la temperatura disminuye y vuelve a estar en 26 °C o por debajo, el diodo LED se apaga automáticamente.
-
-## Objetivos de aprendizaje
 * Configurar la lectura de datos desde un sensor de temperatura ambiental en Arduino.
 * Implementar lógica condicional (`if / else`) para la toma de decisiones basada en un umbral térmico (26 °C).
 * Controlar la activación y desactivación de un diodo LED mediante pines de salida digital.
@@ -20,12 +18,13 @@ En esta práctica de la materia Desarrollo Sustentable con Automatización, se d
 * **Software de Desarrollo:** IDE de Arduino
 
 ## Código
-[main.ino](/Codigo/main.ino)
+[Main.ino](/Codigo/Main.ino)
 ## Diagrama del circuito / Imágenes del funcionamiento
 [Diagrama del circuito y Monitor Serie]<<img width="500" height="300" alt="Screenshot 2026-09-24 11 46 31" src="https://github.com/user-attachments/assets/d21e112f-8735-4826-b27c-b008cb2b78d9" /> <img width="500" height="300" alt="Screenshot 2026-09-24 11 46 06" src="https://github.com/user-attachments/assets/d013f8ea-12fa-494f-82ab-9fe6b78cb48a" /> 
 
 
 ## Video del funcionamiento
+
 [](https://youtube.com/shorts/20iSwdYH3Vw)[](https://youtu.be/ZV5TLr5dLls)
 
 ## Resultados
