@@ -27,4 +27,4 @@ En esta práctica de la materia Desarrollo Sustentable con Automatización, se d
 
 ## Resultados
 
-📄 **Reporte en PDF:** [Haz clic aquí para ver el archivo PDF][](Reporte de Resultados-Monitoreo de Temperatura Arduino.pdf)
+📄 **Reporte en PDF:** [Reporte de Resultados - Monitoreo de Temperatura Arduino.pdf](Reporte de Resultados-Monitoreo de Temperatura Arduino.pdf)
