@@ -32,5 +32,5 @@ Enumera todos los componentes usados:
  **1. Resumen Ejecutivo**  
  El presente reporte documenta el desarrollo e implementación...
  ## Reporte Técnico
-[Aqui va el pdf](Practicas/Practica_2_Green_IT/Informe_Tecnico_Green_IT.pdf)
+[Aqui va el pdf](Practicas/Practica_2_Green_IT/Reporte/Informe_Tecnico_Green_IT.pdf)
 
