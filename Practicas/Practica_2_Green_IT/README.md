@@ -19,8 +19,8 @@ Enumera todos los componentes usados:
 * Gmail API
 
 ## Diagrama del circuito
-![Flujo de automatización en Make](<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/92235d08-7d6b-41f3-8918-0e127eca5ea2" />
-)
+![Flujo de automatización en Make]<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/92235d08-7d6b-41f3-8918-0e127eca5ea2"/>
+
 
 ## Código
 
