@@ -1,0 +1,410 @@
+```html
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>El precio invisible de la nube</title>
+<link rel="preconnect" href="[https://fonts.googleapis.com](https://fonts.googleapis.com)">
+<link rel="preconnect" href="[https://fonts.gstatic.com](https://fonts.gstatic.com)" crossorigin>
+<link href="[https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;1,9..144,500&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&display=swap](https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;1,9..144,500&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&display=swap)" rel="stylesheet">
+<style>
+  :root{
+    --bg:#12211E;
+    --bg-soft:#1A2E29;
+    --ink:#ECE6D9;
+    --ink-dim:#9FB0AA;
+    --amber:#E3A857;
+    --cyan:#6FC1CF;
+    --moss:#7BA88F;
+    --line:rgba(236,230,217,0.14);
+    --radius:2px;
+  }
+  *{box-sizing:border-box;}
+  html{scroll-behavior:smooth;}
+  body{
+    margin:0;
+    background:var(--bg);
+    color:var(--ink);
+    font-family:'IBM Plex Sans', sans-serif;
+    line-height:1.6;
+    -webkit-font-smoothing:antialiased;
+  }
+  ::selection{background:var(--amber); color:#12211E;}
+  a{color:var(--cyan);}
+  .wrap{
+    max-width:920px;
+    margin:0 auto;
+    padding:0 28px;
+  }
+  .mono{
+    font-family:'IBM Plex Mono', monospace;
+    letter-spacing:0.02em;
+  }
+
+  /* ---------- HERO ---------- */
+  .hero{
+    position:relative;
+    padding:96px 0 72px;
+    overflow:hidden;
+    border-bottom:1px solid var(--line);
+  }
+  .rack{
+    position:absolute;
+    top:0; right:-40px;
+    width:340px;
+    height:100%;
+    display:flex;
+    flex-direction:column;
+    gap:8px;
+    padding-top:40px;
+    opacity:0.5;
+  }
+  .rack .unit{
+    height:14px;
+    border:1px solid var(--line);
+    border-radius:1px;
+    background:linear-gradient(90deg, transparent 0%, rgba(111,193,207,0.06) 100%);
+    display:flex;
+    align-items:center;
+  }
+  .rack .unit i{
+    width:6px;height:6px;border-radius:50%;
+    margin-left:10px;
+    background:var(--ink-dim);
+    opacity:0.5;
+  }
+  .rack .unit.lit i{
+    background:var(--amber);
+    opacity:0;
+    animation:blink 4.5s ease-in-out infinite;
+  }
+  .rack .unit.lit2 i{
+    background:var(--cyan);
+    opacity:0;
+    animation:blink 6s ease-in-out infinite 1.2s;
+  }
+  @keyframes blink{
+    0%,100%{opacity:0;}
+    50%{opacity:0.9;}
+  }
+  .eyebrow{
+    font-size:13px;
+    color:var(--ink-dim);
+    margin:0 0 18px;
+  }
+  h1{
+    font-family:'Fraunces', serif;
+    font-weight:600;
+    font-size:clamp(34px, 5vw, 54px);
+    line-height:1.12;
+    margin:0 0 22px;
+    max-width:11ch;
+  }
+  h1 em{
+    font-style:italic;
+    font-weight:500;
+    color:var(--amber);
+  }
+  .hero p{
+    max-width:52ch;
+    color:var(--ink-dim);
+    font-size:17px;
+    margin:0;
+  }
+
+  /* ---------- SECTIONS ---------- */
+  section{
+    padding:72px 0;
+    border-bottom:1px solid var(--line);
+  }
+  h2{
+    font-family:'Fraunces', serif;
+    font-weight:600;
+    font-size:clamp(24px, 3vw, 30px);
+    margin:0 0 8px;
+  }
+  .section-lede{
+    color:var(--ink-dim);
+    font-size:14px;
+    margin:0 0 32px;
+    max-width:46ch;
+  }
+  .explain-grid{
+    display:grid;
+    grid-template-columns:1.1fr 0.9fr;
+    gap:48px;
+    align-items:start;
+  }
+  .explain-grid p{
+    color:var(--ink);
+    font-size:16px;
+    margin:0 0 16px;
+  }
+  .stats{
+    display:flex;
+    flex-direction:column;
+    gap:14px;
+  }
+  .stat{
+    border:1px solid var(--line);
+    border-radius:var(--radius);
+    padding:18px 20px;
+    background:var(--bg-soft);
+  }
+  .stat .label{
+    font-size:12px;
+    color:var(--ink-dim);
+    margin-bottom:8px;
+  }
+  .stat .figure{
+    font-size:15px;
+    color:var(--ink);
+  }
+  .stat.energy .label{color:var(--amber);}
+  .stat.water .label{color:var(--cyan);}
+  .stat.hardware .label{color:var(--moss);}
+
+  /* ---------- REFLECTION ---------- */
+  .reflect textarea{
+    width:100%;
+    min-height:130px;
+    background:var(--bg-soft);
+    border:1px solid var(--line);
+    border-radius:var(--radius);
+    color:var(--ink);
+    font-family:'IBM Plex Mono', monospace;
+    font-size:14px;
+    padding:18px;
+    resize:vertical;
+  }
+  .reflect textarea:focus{
+    outline:none;
+    border-color:var(--cyan);
+  }
+  .reflect .hint{
+    margin-top:10px;
+    font-size:12px;
+    color:var(--ink-dim);
+  }
+
+  /* ---------- FORM ---------- */
+  .form-card{
+    border:1px solid var(--line);
+    background:var(--bg-soft);
+    border-radius:var(--radius);
+    padding:36px;
+  }
+  label{
+    display:block;
+    font-size:12px;
+    color:var(--ink-dim);
+    margin-bottom:8px;
+  }
+  .field{margin-bottom:20px;}
+  input, textarea.opinion{
+    width:100%;
+    background:var(--bg);
+    border:1px solid var(--line);
+    border-radius:var(--radius);
+    color:var(--ink);
+    font-family:'IBM Plex Sans', sans-serif;
+    font-size:15px;
+    padding:12px 14px;
+  }
+  textarea.opinion{min-height:110px; resize:vertical;}
+  input:focus, textarea.opinion:focus{
+    outline:none;
+    border-color:var(--amber);
+  }
+  button{
+    appearance:none;
+    border:none;
+    background:var(--amber);
+    color:#1A2410;
+    font-family:'IBM Plex Sans', sans-serif;
+    font-weight:600;
+    font-size:15px;
+    padding:13px 26px;
+    border-radius:var(--radius);
+    cursor:pointer;
+    transition:transform .15s ease, background .15s ease;
+  }
+  button:hover{background:#EEBC79;}
+  button:active{transform:scale(0.98);}
+  button:disabled{opacity:0.6; cursor:default;}
+  .error-msg{
+    color:#E38B6E;
+    font-size:13px;
+    margin-top:14px;
+    display:none;
+  }
+  .thanks{
+    display:none;
+    text-align:center;
+    padding:20px 0;
+  }
+  .thanks .mark{
+    font-family:'Fraunces', serif;
+    font-style:italic;
+    font-size:26px;
+    color:var(--amber);
+    margin-bottom:10px;
+  }
+  .thanks p{color:var(--ink-dim); font-size:14px; margin:0;}
+
+  footer{
+    padding:40px 0 60px;
+    color:var(--ink-dim);
+    font-size:12px;
+  }
+
+  @media (max-width:720px){
+    .explain-grid{grid-template-columns:1fr;}
+    .rack{display:none;}
+    .hero{padding:64px 0 56px;}
+    section{padding:52px 0;}
+    .form-card{padding:24px;}
+  }
+</style>
+</head>
+<body>
+
+<div class="hero">
+  <div class="rack">
+    <div class="unit lit"><i></i></div>
+    <div class="unit"><i></i></div>
+    <div class="unit lit2"><i></i></div>
+    <div class="unit"><i></i></div>
+    <div class="unit lit"><i></i></div>
+    <div class="unit"><i></i></div>
+    <div class="unit"><i></i></div>
+    <div class="unit lit2"><i></i></div>
+    <div class="unit"><i></i></div>
+    <div class="unit lit"><i></i></div>
+    <div class="unit"><i></i></div>
+    <div class="unit"><i></i></div>
+    <div class="unit lit2"><i></i></div>
+    <div class="unit"><i></i></div>
+    <div class="unit lit"><i></i></div>
+  </div>
+  <div class="wrap">
+    <p class="eyebrow mono">impacto ambiental del almacenamiento en la nube</p>
+    <h1>Nada se guarda <em>en el aire</em>.</h1>
+    <p>"La nube" es, en realidad, miles de máquinas físicas prendidas todo el día en algún edificio del planeta. Esta página explica ese costo oculto — y quiere conocer tu opinión sobre él.</p>
+  </div>
+</div>
+
+<section class="explain">
+  <div class="wrap">
+    <h2>¿Qué hay detrás de "subir un archivo"?</h2>
+    <p class="section-lede">Un vistazo rápido a por qué guardar información digital también tiene una huella física.</p>
+    <div class="explain-grid">
+      <div>
+        <p>Cada foto que subes, cada correo que archivas y cada serie que ves en streaming vive en un servidor real, dentro de un centro de datos. Ese centro nunca se apaga: miles de discos y procesadores trabajan sin parar, generando calor las 24 horas del día.</p>
+        <p>Para que ese calor no dañe los equipos, se necesitan sistemas de refrigeración que consumen grandes cantidades de electricidad y, en muchos casos, agua. A eso se suma la energía para fabricar y reemplazar el hardware cada pocos años, y el hecho de que buena parte de esa electricidad todavía sale de fuentes fósiles.</p>
+        <p>Se estima que, en conjunto, los centros de datos del mundo consumen alrededor de 1–1.5% de la electricidad global — una cifra que crece cada año conforme almacenamos, respaldamos y procesamos más información.</p>
+      </div>
+      <div class="stats">
+        <div class="stat energy">
+          <div class="label mono">ENERGÍA</div>
+          <div class="figure">Los centros de datos operan 24/7, los 365 días del año, sin pausas.</div>
+        </div>
+        <div class="stat water">
+          <div class="label mono">AGUA</div>
+          <div class="figure">Un solo centro de datos puede usar millones de litros de agua al año para refrigerarse.</div>
+        </div>
+        <div class="stat hardware">
+          <div class="label mono">HARDWARE</div>
+          <div class="figure">Discos y servidores suelen reemplazarse cada 3–5 años, generando residuos electrónicos.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="reflect">
+  <div class="wrap">
+    <h2>¿Y tú, qué piensas?</h2>
+    <p class="section-lede">Antes de responder la encuesta, tómate un momento para pensarlo.</p>
+    <textarea placeholder="Escribe aquí, solo para ti, lo primero que se te ocurra…"></textarea>
+    <p class="hint">Esto es solo un espacio para ordenar tus ideas — no se envía a ningún lado.</p>
+  </div>
+</section>
+
+<section class="survey">
+  <div class="wrap">
+    <h2>Participa en la encuesta</h2>
+    <p class="section-lede">Ahora sí — cuéntanos tu opinión de verdad. Tus respuestas se guardan automáticamente y te escribiremos para agradecerte.</p>
+
+    <div class="form-card">
+      <form id="opinionForm">
+        <div class="field">
+          <label for="nombre">Nombre</label>
+          <input type="text" id="nombre" name="nombre" required autocomplete="name">
+        </div>
+        <div class="field">
+          <label for="correo">Correo electrónico</label>
+          <input type="email" id="correo" name="correo" required autocomplete="email">
+        </div>
+        <div class="field">
+          <label for="opinion">Tu opinión sobre el impacto ambiental de la nube</label>
+          <textarea class="opinion" id="opinion" name="opinion" required></textarea>
+        </div>
+        <button type="submit" id="submitBtn">Enviar mi opinión</button>
+        <p class="error-msg" id="errorMsg">No pudimos enviar tu respuesta. Inténtalo de nuevo en un momento.</p>
+      </form>
+
+      <div class="thanks" id="thanksBox">
+        <div class="mark">Gracias por participar</div>
+        <p>Guardamos tu opinión y te enviamos un correo para confirmarlo.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    Encuesta sobre el impacto ambiental del almacenamiento en la nube.
+  </div>
+</footer>
+
+<script>
+  const MAKE_WEBHOOK_URL = "[https://hook.us2.make.com/exo2jtl8nmhbuljl2if8q6yexni0415x](https://hook.us2.make.com/exo2jtl8nmhbuljl2if8q6yexni0415x)";
+
+  const form = document.getElementById('opinionForm');
+  const submitBtn = document.getElementById('submitBtn');
+  const errorMsg = document.getElementById('errorMsg');
+  const thanksBox = document.getElementById('thanksBox');
+
+  form.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    errorMsg.style.display = 'none';
+    submitBtn.disabled = true;
+    submitBtn.textContent = 'Enviando…';
+
+    const payload = {
+      nombre: document.getElementById('nombre').value.trim(),
+      correo: document.getElementById('correo').value.trim(),
+      opinion: document.getElementById('opinion').value.trim(),
+      fecha: new Date().toISOString()
+    };
+
+    try {
+      const res = await fetch(MAKE_WEBHOOK_URL, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(payload)
+      });
+      if (!res.ok) throw new Error('Respuesta no válida del servidor');
+
+      form.style.display = 'none';
+      thanksBox.style.display = 'block';
+    } catch (err) {
+      errorMsg.style.display = 'block';
+      submitBtn.disabled = false;
+      submitBtn.textContent = 'Enviar mi opinión';
+    }
+  });
+</script>
+```
