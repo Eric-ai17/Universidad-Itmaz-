@@ -20,6 +20,8 @@ Enumera todos los componentes usados:
 
 ## Diagrama del circuito
 ![Flujo de automatización en Make]<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/92235d08-7d6b-41f3-8918-0e127eca5ea2"/>
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/91e5fff0-86b0-4556-aab4-4cfca55ba09c" />
+
 
 
 ## Código
