@@ -25,7 +25,7 @@ Enumera todos los componentes usados:
 
 
 ## Código
-
+[main.txt](Codigo/Main.txt)
 
 ## Reporte Técnico
   
