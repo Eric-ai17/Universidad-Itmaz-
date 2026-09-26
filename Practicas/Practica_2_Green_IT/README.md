@@ -1,6 +1,6 @@
 # GreenIT - El precio invisible de la nube
 
-Breve descripción del proyecto
+
 [Link de la pagina green it impacto nube](https://eric-ai17.github.io/ENCUESTANUBE/)
 
 ## Descripción
