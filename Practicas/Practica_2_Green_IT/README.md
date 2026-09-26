@@ -1,6 +1,7 @@
 # GreenIT - El precio invisible de la nube
 
 Breve descripción del proyecto
+[Link de la pagina green it impacto nube](https://eric-ai17.github.io/ENCUESTANUBE/)
 
 ## Descripción
 Página web interactiva y sistema de automatización enfocado en la concientización sobre el impacto ambiental del almacenamiento en la nube (consumo de energía, refrigeración por agua y huella de carbono de los centros de datos). El sistema recopila las opiniones de los usuarios a través de un formulario web, procesa las respuestas en tiempo real mediante Make, las almacena automáticamente en Google Sheets y envía un correo de agradecimiento.
