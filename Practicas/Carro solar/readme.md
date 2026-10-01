@@ -23,8 +23,10 @@ En esta práctica de la materia Desarrollo Sustentable con Automatización, se d
 [main.tx](Codigo/Main.txt)
 
 ## Diagrama del circuito / Imágenes del funcionamiento
-[Diagrama del circuito e imágenes del prototipo]<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/tu-imagen-aqui-1" />
-<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/tu-imagen-aqui-2" />
+[Diagrama del circuito e imágenes del prototipo]<img width="300" height="300" alt="20261001_125629" src="https://github.com/user-attachments/assets/1755ca5f-c225-4949-a0e8-7f9577c5ca44" /> <img width="300" height="300" alt="20261001_125625" src="https://github.com/user-attachments/assets/36fa0c5e-a906-43c4-acfa-cb26a22a04f8" /><img width="300" height="300" alt="20261001_125620" src="https://github.com/user-attachments/assets/d7702d38-61cd-4966-8147-326957808046" />
+
+
+
 
 ## Resultados
 
