@@ -1,1 +1,116 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "project": {
+    "id": "robot-solar-2wd-v1",
+    "name": "2WD Solar Powered Robot Chassis",
+    "version": "1.0.0",
+    "description": "Plataforma robótica móvil de tracción diferencial alimentada directamente por un panel solar fotovoltaico.",
+    "license": "Open Hardware"
+  },
+  "physical_dimensions": {
+    "total_length_mm": 285,
+    "total_width_mm": 155,
+    "chassis_thickness_mm": 3,
+    "wheel_diameter_mm": 65
+  },
+  "drivetrain": {
+    "type": "Differential Drive (2WD) + Rear Caster Wheel",
+    "motors": {
+      "model": "TT Gear Motor",
+      "quantity": 2,
+      "gear_ratio": "1:48",
+      "operating_voltage": "3V - 6V DC"
+    },
+    "wheels": {
+      "drive_wheels": {
+        "quantity": 2,
+        "diameter_mm": 65,
+        "material": "Caucho con rin de plástico"
+      },
+      "support_wheel": {
+        "type": "Rueda Caster Omnidireccional",
+        "quantity": 1,
+        "mounting": "4x Separadores hexagonales de latón M3"
+      }
+    }
+  },
+  "power_system": {
+    "source_type": "Photovoltaic Solar Panel",
+    "cell_type": "Multicristalino",
+    "output_topology": "Direct DC Parallel Connection",
+    "control_type": "Open-loop (sin controlador ni batería)"
+  },
+  "electrical_connections": {
+    "bus_lines": [
+      {
+        "signal": "V+",
+        "wire_color": "Red",
+        "nodes": [
+          "SolarPanel.V+",
+          "Motor_Left.Terminal_1",
+          "Motor_Right.Terminal_1"
+        ]
+      },
+      {
+        "signal": "V-",
+        "wire_color": "Black",
+        "nodes": [
+          "SolarPanel.V-",
+          "Motor_Left.Terminal_2",
+          "Motor_Right.Terminal_2"
+        ]
+      }
+    ]
+  },
+  "bill_of_materials": [
+    {
+      "part_number": "CHASSIS-ACR-01",
+      "name": "Chasis principal de acrílico",
+      "quantity": 1,
+      "specifications": "Corte láser, 3mm de grosor, perforaciones multiusos"
+    },
+    {
+      "part_number": "SOLAR-PNL-01",
+      "name": "Panel solar rígido",
+      "quantity": 1,
+      "specifications": "Multicristalino, superficie con recubrimiento epóxico"
+    },
+    {
+      "part_number": "MTR-TT-148",
+      "name": "Motorreductor de CD tipo TT",
+      "quantity": 2,
+      "specifications": "Eje doble, caja de engranes amarilla"
+    },
+    {
+      "part_number": "WHL-DRV-65",
+      "name": "Rueda de tracción",
+      "quantity": 2,
+      "specifications": "Buje acoplable a eje TT, hule antiderrapante"
+    },
+    {
+      "part_number": "WHL-CSTR-01",
+      "name": "Rueda giratoria loca (Caster)",
+      "quantity": 1,
+      "specifications": "Soporte metálico con rueda de nylon"
+    },
+    {
+      "part_number": "MNT-BRK-MTR",
+      "name": "Soportes acrílicos para motor",
+      "quantity": 4,
+      "specifications": "Para fijación de motores TT al chasis"
+    },
+    {
+      "part_number": "HDW-STDF-M3",
+      "name": "Separadores de latón M3",
+      "quantity": 4,
+      "specifications": "Elevadores para rueda caster"
+    },
+    {
+      "part_number": "HDW-FAST-M3",
+      "name": "Kit de tornillería y tuercas M3",
+      "quantity": 1,
+      "specifications": "M3x30mm, M3x10mm, tuercas M3"
+    }
+  ]
+}
 
