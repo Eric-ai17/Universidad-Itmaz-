@@ -31,4 +31,4 @@ En esta práctica de la materia Desarrollo Sustentable con Automatización, se d
 ## Resultados
 [Aqui va el pdf](https://github.com/Eric-ai17/Universidad-Itmaz-/blob/main/Practicas/Carro%20solar/Resultados/Informe%20de%20Resultados%20-%20Prototipo%20Solar.pdf)
 ## Video del funcionamiento
-[Ver video en YouTube](https://youtube.com/shorts/tu-video-aqui)
+[Ver video en YouTube](https://youtu.be/PoAR82CBrX0)
