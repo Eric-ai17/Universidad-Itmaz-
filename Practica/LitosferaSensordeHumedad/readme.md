@@ -24,7 +24,7 @@ En esta práctica de la materia Desarrollo Sustentable con Automatización, se d
 [main.txt](Codigo/main.txt)
 
 ## Imágenes del funcionamiento
-[prueba en muestra de tierra]<img src="blob:chrome-untrusted://media-app/b15f4d4c-0b57-41f3-9023-d7edff02efca" alt="WhatsApp Image 2026-10-05 at 11.28.19 (1).jpeg"/><img width="300" height="408" alt="image" src="https://github.com/user-attachments/assets/2d3688ad-2280-4c5c-a411-1df02dad649c" />
+[]/><img width="300" height="408" alt="image" src="https://github.com/user-attachments/assets/2d3688ad-2280-4c5c-a411-1df02dad649c" />
 
 
 ## Video del funcionamiento
