@@ -29,5 +29,5 @@ En esta práctica de la materia Desarrollo Sustentable con Automatización, se d
 [Ver video en YouTube](https://youtube.com/shorts/2WD_F8RuprA)
 
 
-## Resultados
-[Aqui va el pdf](Practicas/LitosferaSensordetemperaturaa/Resultados/Reporte de Resultados - Proyecto Litosfera.pdf)
+## Resultados 
+[Aqui va el pdf]
