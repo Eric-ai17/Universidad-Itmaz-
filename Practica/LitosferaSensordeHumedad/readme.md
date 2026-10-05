@@ -20,7 +20,7 @@ En esta práctica de la materia Desarrollo Sustentable con Automatización, se d
 * **Software de Desarrollo:** IDE de Arduino
 
 ## Codigo
-[main.txt](Codigo/main.tx)
+[main.txt](Codigo/main.txt)
 
 ## Diagrama del circuito / Imágenes del funcionamiento
 [Diagrama del circuito y prueba en muestra de tierra]# Nombre del proyecto
