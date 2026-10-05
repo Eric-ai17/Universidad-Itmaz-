@@ -30,4 +30,4 @@ En esta práctica de la materia Desarrollo Sustentable con Automatización, se d
 
 
 ## Resultados 
-[Aqui va el pdf](Practicas/LitosferaSensordetemperaturaa/Resultados/Resultados.pdf)
+[Aqui va el pdf](https://github.com/Eric-ai17/Universidad-Itmaz-/blob/main/Practicas/LitosferaSensordetemperaturaa/Resultados/Resultados.pdf)
