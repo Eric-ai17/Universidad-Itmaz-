@@ -28,7 +28,6 @@ En esta práctica de la materia Desarrollo Sustentable con Automatización, se d
 ## Video del funcionamiento
 [Ver video en YouTube](https://youtube.com/shorts/2WD_F8RuprA)
 
-## Resultados 
-[Aqui va el pdf]
+
 ## Resultados
 [Aqui va el pdf]()
