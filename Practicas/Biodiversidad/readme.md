@@ -31,4 +31,4 @@ En esta práctica de la materia Desarrollo Sustentable con Automatización, se d
 
 
 ## Resultados
-[Aqui va el pdf]
+[Aqui va el pdf](https://github.com/Eric-ai17/Universidad-Itmaz-/blob/main/Practicas/Biodiversidad/resultados/Reporte%20de%20Resultados%20-%20Bot%20de%20Telegram.pdf)
