@@ -22,9 +22,9 @@ En esta práctica de la materia Desarrollo Sustentable con Automatización, se d
 [Ver Blueprint]
 
 ## Diagrama de Make / Imágenes del chatbot
-[Diagrama del flujo en Make.com e interfaz de chat]<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/226abedd-a46d-4577-87e0-da3a37aa591e" />
-<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/5ccabce7-997d-4826-a47e-03656e5993eb" /> 
-<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/457f24d5-13a3-4a8e-9be8-999fd75ecbf5" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/226abedd-a46d-4577-87e0-da3a37aa591e" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/5ccabce7-997d-4826-a47e-03656e5993eb" /> 
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/457f24d5-13a3-4a8e-9be8-999fd75ecbf5" />
 
 ## Video del funcionamiento
 [Ver video en YouTube](https://youtu.be/64gfX51edxE)[Ver video en YouTube](https://youtube.com/shorts/uLiMnpY6Wcg?feature=share)
