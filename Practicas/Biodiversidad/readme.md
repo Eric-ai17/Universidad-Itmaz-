@@ -19,7 +19,7 @@ En esta práctica de la materia Desarrollo Sustentable con Automatización, se d
 * **Dispositivo de Entrada:** Teléfono inteligente o cliente web de Telegram
 
 ## Código
-[Ver Blueprint]
+[Ver Blueprint](https://github.com/Eric-ai17/Universidad-Itmaz-/blob/main/Practicas/Biodiversidad/Codigo/Integration%20Telegram%20Bot%2C%20Make%20AI%20Agent.blueprint.json)
 
 ## Diagrama de Make / Imágenes del chatbot
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/226abedd-a46d-4577-87e0-da3a37aa591e" />
