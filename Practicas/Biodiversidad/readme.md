@@ -27,7 +27,7 @@ En esta práctica de la materia Desarrollo Sustentable con Automatización, se d
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/457f24d5-13a3-4a8e-9be8-999fd75ecbf5" />
 
 ## Video del funcionamiento
-[Ver video en YouTube](https://youtu.be/64gfX51edxE)[Ver video en YouTube](https://youtube.com/shorts/uLiMnpY6Wcg?feature=share)
+[Ver video en YouTube](https://youtu.be/64gfX51edxE) [Ver video en YouTube](https://youtube.com/shorts/uLiMnpY6Wcg?feature=share)
 
 
 ## Resultados
