@@ -19,7 +19,7 @@ En esta práctica de la materia Desarrollo Sustentable con Automatización, se d
 * **Dispositivo de Entrada:** Teléfono inteligente o cliente web de Telegram
 
 ## Código
-[main.txt](Codigo/Main.txt)
+[Main.txt](Codigo/Main.txt)
 ## Diagrama de Make / Imágenes del chatbot
 [Diagrama del flujo en Make.com e interfaz de chat]<img width="500" height="300" alt="WhatsApp Image 2026-10-26 at 11 30 58" src="https://github.com/user-attachments/assets/8ce53ae1-762d-4056-8bc6-1a2ba2c02d0f" />
 <img width="500" height="300" alt="WhatsApp Image 2026-10-26 at 11 31 12" src="https://github.com/user-attachments/assets/7881dcae-bd00-4b25-896f-7a75b6ee6d71" />
