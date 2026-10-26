@@ -1,29 +1,26 @@
 # Nombre del proyecto
-Bot Inteligente de Telegram para Diagnóstico y Cuidado de Plantas mediante IA en Make.com
+Página Web "IDH de mi Estado" - Consultor de Desarrollo Humano con Make.com e IA
 
 ## Descripción
-En esta práctica de la materia Desarrollo Sustentable con Automatización, se diseñó e implementó un flujo de automatización en la plataforma Make.com conectado a un Bot de Telegram y un Agente de Inteligencia Artificial con visión. El sistema recibe imágenes de plantas enviadas por los usuarios, las analiza en tiempo real y responde con un diagnóstico amigable sobre su salud, recomendaciones de riego y cuidados generales. Además, cuenta con una bifurcación lógica mediante enrutador que detecta si el usuario envió un mensaje sin fotografía, respondiendo con un recordatorio automático que solicita la imagen necesaria.
+En esta práctica de la materia Desarrollo Sustentable, se diseñó e implementó una página web interactiva alojada en GitHub Pages y conectada en tiempo real con una automatización en Make.com. Al seleccionar una de las 32 entidades federativas de México (como Sinaloa), la aplicación envía una solicitud vía Webhook a un Agente de Inteligencia Artificial (`Make AI Agent`). La IA consulta una base de conocimientos extraída del informe oficial del PNUD (`IDH_entidades.pdf`) y responde en texto plano desplegando el IDH, sus tres componentes (salud, educación e ingreso), el lugar nacional y un análisis cualitativo sobre su desarrollo sustentable.
 
 ## Objetivos de aprendizaje
-* Configurar un disparador en tiempo real (`Webhook`) con la API de Telegram Bot en Make.com.
-* Implementar un enrutador (`Router`) con filtros condicionales para evaluar la presencia o ausencia de archivos adjuntos (fotografías).
-* Automatizar la descarga de imágenes enviadas por los usuarios para su posterior procesamiento.
-* Integrar un Agente de IA con capacidades multimodales (visión) para el diagnóstico fitosanitario de plantas.
-* Diseñar flujos de conversación intuitivos con respuestas de diagnóstico y mensajes de retroalimentación al usuario.
+* Comprender e interpretar el Índice de Desarrollo Humano (IDH) y sus tres dimensiones fundamentales (salud, educación e ingreso).
+* Configurar una arquitectura de integración web con Make.com mediante `Custom Webhooks` y respuestas personalizadas en `Webhook Response` (con encabezados CORS y `text/plain`).
+* Integrar un Agente de IA (`Make AI Agent`) respaldado por un documento de conocimiento (`Knowledge Base`) para evitar alucinaciones y restringir las respuestas a datos oficiales del PNUD.
+* Desplegar una aplicación web responsiva en GitHub Pages capaz de realizar peticiones asíncronas `POST` mediante `fetch` y `URLSearchParams`.
+* Validar la exactitud de la información generada por la IA mediante la comparación directa con las tablas oficiales del informe del PNUD.
 
 ## Material y herramientas utilizadas
-* **Plataforma de Automatización:** Make.com
-* **Bot de Mensajería:** Telegram Bot API
-* **Agente de IA:** Make AI Agent / Modelo de visión
-* **Gestión de Archivos:** Módulo de descarga de archivos de Telegram
-* **Dispositivo de Entrada:** Teléfono inteligente o cliente web de Telegram
-
-## Código
-[main.txt](Codigo/main.txt)
-## Diagrama de Make / Imágenes del chatbot
+* **Plataforma de Automatización:** Make.com (Webhooks, Make AI Agent, Webhook Response)
+* **Motor de IA:** Make's AI Provider (con base de conocimiento `IDH_entidades.pdf`)
+* **Fuente de Datos:** Informe oficial del PNUD ("Índice de Desarrollo Humano para las entidades federativas, México")
+* **Lenguajes y Tecnologías Web:** HTML5, CSS3 y JavaScript (API Fetch)
+* **Servicio de Hosting:** GitHub Pages
+* **IA Generativa:** Claude (asistente de maquetación web)[main.txt](Codigo/main.txt)
+## Diagrama de Make / Imágenes
 [Diagrama del flujo en Make.com e interfaz de chat]<img width="500" height="300" alt="WhatsApp Image 2026-10-26 at 11 30 58" src="https://github.com/user-attachments/assets/8ce53ae1-762d-4056-8bc6-1a2ba2c02d0f" />
 <img width="500" height="300" alt="WhatsApp Image 2026-10-26 at 11 31 12" src="https://github.com/user-attachments/assets/7881dcae-bd00-4b25-896f-7a75b6ee6d71" />
-
 
 ## Resultados
 [Aqui va el PDF](https://github.com/Eric-ai17/Universidad-Itmaz-/blob/main/Practicas/IDH%20de%20mi%20estado/Resultados/Reporte%20de%20Resultados%20-%20IDH%20de%20mi%20Estado.pdf)
