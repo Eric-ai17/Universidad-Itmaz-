@@ -26,7 +26,6 @@ En esta práctica de la materia Desarrollo Sustentable con Automatización, se d
 
 
 ## Resultados
-[Aqui va el PDF]
-
+[Aqui va el PDF](https://github.com/Eric-ai17/Universidad-Itmaz-/blob/main/Practicas/IDH%20de%20mi%20estado/Resultados/Reporte%20de%20Resultados%20-%20IDH%20de%20mi%20Estado.pdf)
 ## Video del funcionamiento
 [Ver video en YouTube](https://youtu.be/SI-QF-pOwyM)
