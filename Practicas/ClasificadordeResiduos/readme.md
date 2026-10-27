@@ -20,12 +20,11 @@ En esta práctica de la materia Desarrollo Sustentable, se diseñó e implement�
 * **Muestras de Evaluación:** 10 residuos domésticos/escolares (PET, latas, unicel, tetrapak, cáscaras, pilas, etc.)
 
 ## Código
-[main.txt][main.txt]
+[main.txt][Codigo/main.txt]
 ## Diagrama del circuito / Imágenes del funcionamiento
 [Diagrama del flujo en Make.com e interfaz del bot de Telegram]<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/91074dc4-d974-4448-a016-fbae7d8b8868" /> <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/a53fceef-4ef5-4203-8fc9-99f24359eb08" />
 
 ## Resultados
-
-
+[Aqui van el pdf](https://github.com/Eric-ai17/Universidad-Itmaz-/blob/main/Practicas/ClasificadordeResiduos/resultados/resultadoschatresiduos.pdf)
 ## Video del funcionamiento
 [Ver video en YouTube]()
