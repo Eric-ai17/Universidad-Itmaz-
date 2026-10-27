@@ -1,5 +1,5 @@
 # Nombre del proyecto
-Clasificador de Residuos por Fotografía mediante Bot de Telegram y Agente de IA con Visión en Make.com[cite: 16]
+Clasificador de Residuos por Fotografía mediante Bot de Telegram y Agente de IA con Visión en Make.com
 
 ## Descripción
 En esta práctica de la materia Desarrollo Sustentable, se diseñó e implementó un bot inteligente en Telegram integrado con la plataforma Make.com y un Agente de Inteligencia Artificial con capacidad de visión artificial (`Make AI Agent`) El sistema recibe fotografías de distintos residuos capturadas por los usuarios, las descarga en alta resolución y las analiza mediante visión por computadora para clasificar el tipo de residuo (orgánico, inorgánico reciclable, inorgánico no reciclable o de manejo especial/peligro). Asimismo, el bot indica el material principal, aclara si es reciclable, señala el contenedor correspondiente, estima su tiempo aproximado de degradación y brinda un consejo práctico para reducir o reutilizar dicho residuo
@@ -27,4 +27,4 @@ En esta práctica de la materia Desarrollo Sustentable, se diseñó e implement�
 ## Resultados
 [Aqui van el pdf](https://github.com/Eric-ai17/Universidad-Itmaz-/blob/main/Practicas/ClasificadordeResiduos/resultados/resultadoschatresiduos.pdf)
 ## Video del funcionamiento
-[Ver video en YouTube]()
+[Ver video en YouTube](https://youtube.com/shorts/E_rpittXn9A)
