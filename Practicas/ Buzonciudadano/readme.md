@@ -16,7 +16,7 @@ En esta práctica de la materia Desarrollo Sustentable, se diseñó e implement�
 * **Bot de Mensajería:** Telegram Bot API (creado mediante `@BotFather`)
 * **Base de Datos / Registro:** Google Sheets (Hoja `Buzon_Ciudadano_Equipo#`)
 * **Módulos de Make:** `Watch Updates`, `Set Variable`, `Google Sheets (Add a Row)`, `Router` y `Send a Text Message`
-* **Dispositivo de Interacción:** Cliente móvil o web de Telegram[cite: 12]
+* **Dispositivo de Interacción:** Cliente móvil o web de Telegram
 
 ## Código
 [main.txt](Codigo/main.txt)
