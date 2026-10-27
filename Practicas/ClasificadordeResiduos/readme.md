@@ -22,7 +22,7 @@ En esta práctica de la materia Desarrollo Sustentable, se diseñó e implement�
 ## Código
 [main.txt][Codigo/main.txt]
 ## Diagrama del circuito / Imágenes del funcionamiento
-[Aqui van el pdf]<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/91074dc4-d974-4448-a016-fbae7d8b8868" /> <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/a53fceef-4ef5-4203-8fc9-99f24359eb08" />
+[Imagen 1 y 2]<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/91074dc4-d974-4448-a016-fbae7d8b8868" /> <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/a53fceef-4ef5-4203-8fc9-99f24359eb08" />
 
 ## Resultados
 [Aqui van el pdf](https://github.com/Eric-ai17/Universidad-Itmaz-/blob/main/Practicas/ClasificadordeResiduos/resultados/resultadoschatresiduos.pdf)
