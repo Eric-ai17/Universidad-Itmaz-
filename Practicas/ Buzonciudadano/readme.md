@@ -28,7 +28,7 @@ En esta práctica de la materia Desarrollo Sustentable, se diseñó e implement�
 
 
 ## Resultados
-[Aqui va el pdf](
+[Aqui va el pdf](https://github.com/Eric-ai17/Universidad-Itmaz-/blob/main/Practicas/%20Buzonciudadano/resultados/Reporte%20de%20Resultados%20-%20Buz%C3%B3n%20Ciudadano.pdf)
 
 ## Video del funcionamiento
 [Ver video en YouTube](https://youtube.com/shorts/wOp2i742wS8?feature=share)
