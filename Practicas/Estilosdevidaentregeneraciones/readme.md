@@ -23,7 +23,7 @@ En esta práctica de la materia Desarrollo Sustentable, se diseñó e implement�
 [main.txt](Codigo/main.txt)
 
 ## Diagrama de Make / Imágenes del funcionamiento
-[Diagrama del flujo en Make.com e interfaz de la página web con formulario de 3 columnas]<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/98a82540-b5fa-49eb-b288-b71b86909b5f" /> <img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/ef3f5733-c492-4921-be21-5a4336e40573" /><img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/fa7b1da8-2c0c-4fba-9d17-b4a5dc992818" />
+[Diagrama del flujo en Make.com e interfaz de la página web con formulario de 3 columnas]<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/98a82540-b5fa-49eb-b288-b71b86909b5f" /> <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/ef3f5733-c492-4921-be21-5a4336e40573" /><img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/fa7b1da8-2c0c-4fba-9d17-b4a5dc992818" />
 
 
 
