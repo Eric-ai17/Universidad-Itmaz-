@@ -29,4 +29,4 @@ En esta práctica de la materia Desarrollo Sustentable, se diseñó e implement�
 ## Resultados
 [Aqui va el pdf]
 ## Video del funcionamiento
-[Ver video en YouTube](https://youtube.com/shorts/tu-video-aqui)
+[Ver video en YouTube](https://youtu.be/tFbSimoZHMQ)
