@@ -17,16 +17,17 @@ En esta práctica de la materia Desarrollo Sustentable, se diseñó e implement�
 * **Motor de Inteligencia Artificial:** Make's AI Provider (`Make AI Agent`)
 * **Lenguajes y Tecnologías Web:** HTML5, CSS3 y JavaScript (API Fetch y `URLSearchParams`)
 * **Servicio de Hosting:** GitHub Pages
-* **IA Generativa de Apoyo:** Asistente para la maquetación del código web[cite: 20]
+* **IA Generativa de Apoyo:** Asistente para la maquetación del código web
 
 ## Código
-[]Codigo
+[main.txt](Codigo/main.txt)
 
 ## Diagrama de Make / Imágenes del funcionamiento
-[Diagrama del flujo en Make.com e interfaz de la página web con selector de noticias ambientales]<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/tu-imagen-aqui-1" />
-<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/tu-imagen-aqui-2" />
+[Diagrama del flujo en Make.com e interfaz de la página web con selector de noticias ambientales]
+<img width="500" height="300" alt="WhatsApp Image 2026-10-30 at 12 33 20" src="https://github.com/user-attachments/assets/56f81e08-0ea9-4dbc-86ab-1ba2239712ee" /><img width="500" height="500" alt="Energía renovable en México" src="https://github.com/user-attachments/assets/47ef23e7-b656-49d4-94e3-e106bc594bb9" />
+
 
 ## Resultados
-[Aqui va el pdf]
+[Aqui va el pdf](https://github.com/Eric-ai17/Universidad-Itmaz-/blob/main/Practicas/Noticiasclimaticasdeldia/Resultados/Noticiasclimaticasdeldia.pdf)
 ## Video del funcionamiento
 [Ver video en YouTube](https://youtu.be/tFbSimoZHMQ)
