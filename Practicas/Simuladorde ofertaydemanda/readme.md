@@ -31,4 +31,4 @@ En esta práctica de la materia Desarrollo Sustentable (Unidad 4: Escenario Econ
 ## Resultados
 [Aqui va el pdf]()
 ## Video del funcionamiento
-[Ver video en YouTube](https://youtube.com/shorts/tu-video-aqui)
+[Aqui va el video de youtube](https://youtube.com/shorts/-sbIWqR7zhg)
