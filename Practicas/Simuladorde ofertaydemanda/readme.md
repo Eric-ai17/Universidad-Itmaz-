@@ -22,13 +22,14 @@ En esta práctica de la materia Desarrollo Sustentable (Unidad 4: Escenario Econ
 ## Código
 [main.txt](Codigo/main.txt)
 
+
 ## Diagrama del circuito / Imágenes del funcionamient
 [Esquema de conexiones del circuito con los 2 potenciómetros, visualización en matriz LED e interfaz de alertas en Telegram]<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/ce08632f-9084-4237-b06f-b014e333e4d1" /><img width="500" height="500" alt="Screenshot 2026-11-09 12 25 56" src="https://github.com/user-attachments/assets/0b0abb30-115a-41d2-aa74-5d99b959fd60" />
 <img width="500" height="500" alt="WhatsApp Image 2026-11-09 at 12 27 28" src="https://github.com/user-attachments/assets/b0c65520-5411-41a9-a149-a1da51480956" />
 
 
-
 ## Resultados
-[Aqui va el pdf]()
+[Aqui va el pdf](https://github.com/Eric-ai17/Universidad-Itmaz-/blob/main/Practicas/Simuladorde%20ofertaydemanda/Resultado/Reporte%20de%20Resultados.pdf)
+
 ## Video del funcionamiento
 [Aqui va el video de youtube](https://youtube.com/shorts/-sbIWqR7zhg)
