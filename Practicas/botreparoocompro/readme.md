@@ -26,7 +26,6 @@ En esta práctica de la materia Desarrollo Sustentable (Unidad 4: Escenario Econ
 
 
 ## Resultados
-[Aqui va El pdf]
-
+[Aqui va El pdf](https://github.com/Eric-ai17/Universidad-Itmaz-/blob/main/Practicas/botreparoocompro/resultados/reparoocompro.pdf)
 ## Video del funcionamiento
 [Ver video en YouTube](https://youtube.com/shorts/zZ-zyXP9Zb4)
