@@ -27,7 +27,6 @@ En esta práctica de la materia Desarrollo Sustentable (Unidad 4: Escenario Econ
 
 
 ## Resultados
-Durante el desarrollo y procesamiento de la encuesta de consumo se obtuvieron los siguientes resultados:
 [Aqui va el pdf](https://github.com/Eric-ai17/Universidad-Itmaz-/blob/main/Practicas/Encuesta%20Compras%20Local%20o%20Global/Resultados/Reporte%20de%20ResultadosEncuesta%20Compras%20LocaloGlobal.pdf)
 
 
