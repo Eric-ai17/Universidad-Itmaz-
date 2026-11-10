@@ -22,10 +22,11 @@ En esta práctica de la materia Desarrollo Sustentable (Unidad 4: Escenario Econ
 [main.txt](Codigo/main.txt)
 
 ## Diagrama del circuito / Imágenes del funcionamiento
-[Diagrama del flujo en Make.com e interfaz del bot de Telegram con evaluación de fallas]<img width="300" height="500" alt="Screenshot 2026-11-10 10 31 08" src="https://github.com/user-attachments/assets/32c7583c-00b5-4c4c-a23a-1510bd509dae" /><img width="300" height="500" alt="WhatsApp Image 2026-11-10 at 10 33 49" src="https://github.com/user-attachments/assets/ba2f6982-96ae-4698-89ac-95c453579238" />
+[Diagrama del flujo en Make.com e interfaz del bot de Telegram con evaluación de fallas]<img width="500" height="500" alt="Screenshot 2026-11-10 10 31 08" src="https://github.com/user-attachments/assets/32c7583c-00b5-4c4c-a23a-1510bd509dae" /><img width="500" height="500" alt="WhatsApp Image 2026-11-10 at 10 33 49" src="https://github.com/user-attachments/assets/ba2f6982-96ae-4698-89ac-95c453579238" />
 
 
 ## Resultados
+[Aqui va El pdf]
 
 ## Video del funcionamiento
 [Ver video en YouTube](https://youtube.com/shorts/zZ-zyXP9Zb4)
