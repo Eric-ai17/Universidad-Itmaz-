@@ -28,13 +28,8 @@ En esta práctica de la materia Desarrollo Sustentable (Unidad 4: Escenario Econ
 
 ## Resultados
 Durante el desarrollo y procesamiento de la encuesta de consumo se obtuvieron los siguientes resultados:
-[Aqui va el pdf]
+[Aqui va el pdf]()
 
-
-
-* **Registro Automatizado en Google Sheets:** La Ruta 1 del escenario procesó el envío individual de 20 encuestas anónimas, registrando la fecha/hora y las 6 variables de consumo en la hoja de cálculo sin pérdida de datos ni errores de formato.
-* **Procesamiento Masivo y Análisis por IA:** La Ruta 2 activó la lectura de las 20 filas almacenadas, las condensó con `Text aggregator` y generó mediante `Make AI Agent` un reporte estructurado con porcentajes de compra por categoría, análisis de impacto socioeconómico en Mazatlán y recomendaciones para incentivar el comercio local.
-* **Verificación de Precisión Estadística:** Se validaron los porcentajes generados por la inteligencia artificial contrastándolos con fórmulas de recuento directo (`COUNTIF` y `COUNTA`) en Google Sheets, confirmando la exactitud del análisis cuantitativo y la ausencia de alucinaciones numéricas.
 
 ## Video del funcionamiento
 [Ver video en YouTube](https://youtube.com/shorts/Fp4h2vnVkWk)
