@@ -24,8 +24,7 @@ En esta práctica de la materia Desarrollo Sustentable (Unidad 4: Escenario Econ
 
 ## Diagrama de Make / Imágenes del funcionamiento
 <img width="500" height="500" alt="Screenshot 2026-11-12 11 32 18" src="https://github.com/user-attachments/assets/0028cbf3-0b4e-4baa-983d-ebc33de2152f" />
-<img width="500" height="500" alt="Screenshot 2026-11-12 11 32 18" src="https://github.com/user-attachments/assets/3acc3b38-5c2e-4ca3-8c94-fbf7212ec021" />
-
+<img width="500" height="500" alt="Screenshot 2026-11-12 11 31 50" src="https://github.com/user-attachments/assets/d8d1023a-6eba-4dbb-8919-020f94ebb2bf" />
 
 ## Resultados
 [Aqui va el pdf]
