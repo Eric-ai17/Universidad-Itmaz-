@@ -27,6 +27,7 @@ En esta práctica de la materia Desarrollo Sustentable (Unidad 4: Escenario Econ
 <img width="500" height="500" alt="Screenshot 2026-11-12 11 31 50" src="https://github.com/user-attachments/assets/d8d1023a-6eba-4dbb-8919-020f94ebb2bf" />
 
 ## Resultados
-[Aqui va el pdf]
+[Aqui va el pdf](https://github.com/Eric-ai17/Universidad-Itmaz-/blob/main/Practicas/Huellaenergetica/Resultados/Reporte%20de%20Resultados%20%20Huella%20Energetica%20de%20la%20Nube.pdf)
+
 ## Video del funcionamiento
 [Ver video en YouTube](https://youtu.be/P5QDQGTMxg4)
