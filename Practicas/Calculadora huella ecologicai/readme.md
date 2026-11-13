@@ -27,6 +27,8 @@ En esta práctica de la materia Desarrollo Sustentable (Unidad 4: Escenario Econ
 <img width="500" height="500" alt="Screenshot 2026-11-13 08 34 56" src="https://github.com/user-attachments/assets/a9d736bd-96fd-4903-975d-b2755ffb18d0" />
 
 ## Resultados
-[Aqui va el pdf]
+[Aqui va el pdf](https://github.com/Eric-ai17/Universidad-Itmaz-/blob/main/Practicas/Calculadora%20huella%20ecologicai/Resultados/Reporte%20de%20Resultados%20-%20Calculadora%20de%20Huella%20Ecologica.pdf)
+
 ## Video del funcionamiento
+
 [Ver video en YouTube]()
